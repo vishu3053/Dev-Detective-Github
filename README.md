@@ -20,6 +20,10 @@ Check out the live demo [here](https://detective-id.netlify.app/).
 - CSS
 - JavaScript
 
+## Contributing
+
+- Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the existing code style and includes appropriate tests.
+
 ## Usage
 
 1. Open the [live demo](https://detective-id.netlify.app/).
