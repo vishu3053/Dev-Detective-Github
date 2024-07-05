@@ -1,7 +1,5 @@
 # GitHub Username Finder
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/detective-id/deploys)
-
 Welcome to the GitHub Username Finder! This simple web application allows you to find GitHub users by their usernames.
 
 ## Demo
